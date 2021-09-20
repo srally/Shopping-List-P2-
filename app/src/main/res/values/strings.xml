@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="plus_text">Add</string>
+    <string name="et">Add to List</string>
+</resources>
