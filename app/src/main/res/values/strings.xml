@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Shopping List</string>
-    <string name="plus_text">Add</string>
-    <string name="et">Add to List</string>
+    <string name="app_name">ShoppingListActivity</string>
+    <string name="add_button_text">Add</string>
+    <string name="item_editText_hint">Write a new item</string>
 </resources>
